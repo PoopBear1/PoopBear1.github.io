@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-08-01
+date: 2023-12-20
 inline: true
 related_posts: false
 ---
 
-Start my research intern journey with Tencent XR Lab! :sparkles: :smile:
+One paper has been accepted to WACV-2024

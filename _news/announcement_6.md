@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-07-28
+date: 2021-04-25
 inline: true
 related_posts: false
 ---
 
-Starting my master journey with ANU in Machine Learning and Computer Vision. :books: :computer:
+Graduated from University of Alberta :mortar_board:
