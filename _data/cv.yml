@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Xuyang Wang (Rita)
+      value: Chushan Zhang (Isaac)
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English, Chinese
+      value: English, Mandarin, Cantonese
 
 - title: Education
   type: time_table
   contents:
     - title: Master of Machine Learning and Computer Vision
       institution: Australian National University
-      year: 2023
+      year: 2021-2023
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Science with Specialization in Computing Science
+      institution: University of Alberta
+      year: 2016-2021
       description:
         - Description 1.
         - Description 2.
