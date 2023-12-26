@@ -1,77 +1,84 @@
 {
   "basics": {
-    "name": "Xuyang Wang (Rita)",
+    "name": "Chushan Zhang (Isaac)",
     "image": "",
-    "email": "wxy.xuyang@gmail.com",
-    "summary": "Graduate in Machine Learning and Computer Vision"
+    "email": "isaaczhang11@gmail.com",
+    "summary": ""
   },
   "work": [
     {
-      "name": "XR Lab, Tencent",
+      "name": "Super Map GIS Co., Ltd",
       "position": "Research Intern",
-      "startDate": "2022-08",
-      "endDate": "2023-05",
-      "summary": "Working on Virtual Avatar Generation for VR",
+      "startDate": "2023-09",
+      "endDate": "2023-12",
+      "summary": "Working on City-level new-view synthesis and enhancing user interactive",
       "highlights": [
-        "3D Human Reconstruction",
-        "Motion Generation"
+        "3D Reconstruction",
+        "Advanced Neural Rendering",
+        "3D Segmentation with SAM and LLMs"
       ]
     },
+
     {
-      "name": "Autonomous Driving Engineering Group, Baidu",
-      "position": "Engineering Intern",
-      "startDate": "2021-11",
-      "endDate": "2022-01",
-      "summary": "Working on 3D Point Cloud Tracking",
+      "name": "H3C Technologies Co., Ltd",
+      "position": "Data Analyst Intern",
+      "startDate": "2020-8",
+      "endDate": "2020-10",
+      "summary": "Conducting thorough data analysis for strategic insights; specializing in data cleansing, processing, and modeling",
       "highlights": [
-        "3D Point Clouds"
+        "Data Cleansing and Processing",
+        "Data Modeling",
+        "Data Visualization"
+      ]
+    },
+
+    {
+      "name": "CIB Digital Financial Service Co., Ltd",
+      "position": "Front-end Developer Intern",
+      "startDate": "2020-06",
+      "endDate": "2020-08",
+      "summary": "Developing interactive front-end web and managing back-end data integration",
+      "highlights": [
+        "Front-end Development",
+        "Back-end databases Integration"
       ]
     }
+
   ],
   "volunteer": [],
   "education": [
     {
       "institution": "Australian National University, Canberra, Australia",
       "url": "https://cecc.anu.edu.au/",
-      "area": "Machine Learning and Computer Vision",
-      "studyType": "M.ENG",
+      "area": "Master of Machine Learning and Computer Vision",
+      "studyType": "M.Sc.",
       "startDate": "2021-07",
       "endDate": "2023-06",
       "score": "",
       "courses": [
         "Computer Vision",
-        "Advanced Deep Learning for Computer Vision",
-        "Statistic Machine Learning",
-        "Engineering Data Analysis",
-        "Document Analysis"
+        "Deep Learning",
+        "Machine Learning",
+        "Statistic Machine Learning"
       ]
     },
+
     {
-      "institution": "University of Sydney, Sydney, Australia",
-      "url": "https://www.sydney.edu.au/engineering/schools/school-of-electrical-and-information-engineering.html",
-      "area": "Bachelor of Engineering Honors",
-      "studyType": "B.ENG (Honor)",
-      "startDate": "2018-07",
-      "endDate": "2020-06",
+      "institution": "University of Alberta, Edmonton, Canada",
+      "url": "https://www.ualberta.ca/science/index.html",
+      "area": "Bachelor of Science with Specialization in Computing Science",
+      "studyType": "B.Sc. (Specialization)",
+      "startDate": "2016-09",
+      "endDate": "2021-04",
       "score": "",
       "courses": [
-        "Computer Engineering",
-        "Telecommunication Engineering",
-        "Electronic and Information Engineering"
-      ]
-    },
-    {
-      "institution": "Harbin Institute of Technology, Harbin, China",
-      "url": "http://hitee.hit.edu.cn/",
-      "area": "Bachelor of Electrical Engineering",
-      "studyType": "B.ENG",
-      "startDate": "2016-08",
-      "endDate": "2020-06",
-      "score": "",
-      "courses": [
-        "Electrical Engineering"
+        "Data Structure",
+        "Software Engineering",
+        "Artificial Intelligence in Gaming",
+        "Image Processing"
       ]
     }
+
   ],
   "awards": [],
   "certificates": [],
@@ -79,12 +86,15 @@
   "skills": [],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "language": "Mandarin"
     },
+
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "English"
+    },
+
+    {
+      "language": "Cantonese"
     }
   ],
   "interests": [],
