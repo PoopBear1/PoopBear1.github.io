@@ -5,12 +5,45 @@
     "email": "isaaczhang11@gmail.com",
     "summary": ""
   },
-  "work": [
+  "education": [
+    {
+      "institution": "\uD83C\uDFEB Australian National University, Canberra, Australia",
+      "url": "https://cecc.anu.edu.au/",
+      "area": "Master of Machine Learning and Computer Vision",
+      "studyType": "M.Sc.",
+      "startDate": "2021-07",
+      "endDate": "2023-06",
+      "score": "",
+      "courses": [
+        "Computer Vision",
+        "Deep Learning",
+        "Machine Learning",
+        "Statistic Machine Learning"
+      ]
+    },
+
+    {
+      "institution": "\uD83C\uDFEB University of Alberta, Edmonton, Canada",
+      "url": "https://www.ualberta.ca/science/index.html",
+      "area": "Bachelor of Science with Specialization in Computing Science",
+      "studyType": "B.Sc. (Specialization)",
+      "startDate": "2016-09",
+      "endDate": "2021-04",
+      "score": "",
+      "courses": [
+        "Data Structure",
+        "Software Engineering",
+        "Artificial Intelligence in Gaming",
+        "Image Processing"
+      ]
+    }
+
+  ],
+  "experience": [
     {
       "name": "Super Map GIS Co., Ltd",
       "position": "Research Intern",
       "startDate": "2023-09",
-      "endDate": "2023-12",
       "summary": "Working on City-level new-view synthesis and enhancing user interactive",
       "highlights": [
         "3D Reconstruction",
@@ -46,40 +79,6 @@
 
   ],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "Australian National University, Canberra, Australia",
-      "url": "https://cecc.anu.edu.au/",
-      "area": "Master of Machine Learning and Computer Vision",
-      "studyType": "M.Sc.",
-      "startDate": "2021-07",
-      "endDate": "2023-06",
-      "score": "",
-      "courses": [
-        "Computer Vision",
-        "Deep Learning",
-        "Machine Learning",
-        "Statistic Machine Learning"
-      ]
-    },
-
-    {
-      "institution": "University of Alberta, Edmonton, Canada",
-      "url": "https://www.ualberta.ca/science/index.html",
-      "area": "Bachelor of Science with Specialization in Computing Science",
-      "studyType": "B.Sc. (Specialization)",
-      "startDate": "2016-09",
-      "endDate": "2021-04",
-      "score": "",
-      "courses": [
-        "Data Structure",
-        "Software Engineering",
-        "Artificial Intelligence in Gaming",
-        "Image Processing"
-      ]
-    }
-
-  ],
   "awards": [],
   "certificates": [],
   "publications": [],
