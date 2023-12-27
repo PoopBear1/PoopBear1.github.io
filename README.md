@@ -1,1 +1,1 @@
-Welcome to my homepage, this website is based on "al-folio" template.
+Welcome to my homepage, this website is based on [al-folio](https://github.com/alshedivat/al-folio) template.
