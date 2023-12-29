@@ -42,6 +42,7 @@
   "experience": [
     {
       "name": "Super Map GIS Co., Ltd",
+      "url": "https://www.supermap.com/en-us/list/?15_1.html",
       "position": "Research Intern",
       "startDate": "2023-09",
       "summary": "Working on City-level new-view synthesis and enhancing user interactive",
@@ -54,6 +55,7 @@
 
     {
       "name": "H3C Technologies Co., Ltd",
+      "url": "https://www.h3c.com/en/About_Us/",
       "position": "Data Analyst Intern",
       "startDate": "2020-08",
       "endDate": "2020-10",
@@ -67,6 +69,7 @@
 
     {
       "name": "CIB Digital Financial Service Co., Ltd",
+      "url": "https://www.cib.com.cn/en/",
       "position": "Front-end Developer Intern",
       "startDate": "2020-06",
       "endDate": "2020-08",
