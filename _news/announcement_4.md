@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-20
+date: 2023-09-01
 inline: true
 related_posts: false
 ---
 
-Two Ph.D. offers from ANU and UQ(with scholarship)!
+Started my research intern at SuperMap GIS

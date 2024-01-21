@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-20
+date: 2023-07-14
 inline: true
 related_posts: false
 ---
 
-One paper has been accepted to WACV-2024
+Graduated from ANU :mortar_board:

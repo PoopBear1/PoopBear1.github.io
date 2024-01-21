@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-01
+date: 2021-07-30
 inline: true
 related_posts: false
 ---
 
-Started my research intern at SuperMap GIS
+Relocated to Canberra 🇨🇦---✈️--->🇦🇺  

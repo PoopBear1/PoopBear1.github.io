@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-04-25
+date: 2023-12-20
 inline: true
 related_posts: false
 ---
 
-Graduated from University of Alberta :mortar_board:
+One paper has been accepted to WACV-2024

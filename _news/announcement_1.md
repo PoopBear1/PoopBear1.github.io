@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-07-14
+date: 2021-04-25
 inline: true
 related_posts: false
 ---
 
-Graduated from ANU :mortar_board:
+Graduated from University of Alberta :mortar_board:
