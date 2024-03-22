@@ -6,6 +6,23 @@
     "summary": ""
   },
   "education": [
+
+    {
+      "institution": "\uD83C\uDFEB Australian National University, Canberra, Australia",
+      "url": "https://cecc.anu.edu.au/",
+      "area": "Doctor of Philosophy",
+      "studyType": "Ph.D",
+      "startDate": "2024-03",
+      "score": "",
+      "courses": [
+        "Computer Vision",
+        "Nature Language Processing",
+        "Multimodal Learning",
+        "Robotics Control"
+      ]
+    },
+
+
     {
       "institution": "\uD83C\uDFEB Australian National University, Canberra, Australia",
       "url": "https://cecc.anu.edu.au/",
